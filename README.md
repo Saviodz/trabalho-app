@@ -7,7 +7,7 @@ Este projeto demonstra a integração de uma aplicação full-stack conteineriza
 - Cache Redis
 - Suporte a CORS
 
-## 🚀 Executar a aplicação
+## Executar a aplicação
 
 1. Extraia o ZIP e navegue até a pasta:
 ```bash
@@ -19,7 +19,7 @@ cd app-fullstack-cors
 docker compose up --build
 ```
 
-## 🔗 Endpoints
+##  Endpoints
 
 - Frontend: http://localhost:3000  
 - Backend: http://localhost:4000/items  

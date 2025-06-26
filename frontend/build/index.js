@@ -1,4 +1,4 @@
-const apiUrl = 'http://localhost:4000/items';
+const apiUrl = 'http://localhost:80/items';
 
 async function loadItems() {
   const res = await fetch(apiUrl);
